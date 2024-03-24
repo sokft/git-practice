@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Nora, Olivia
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> d243269 (Edit Leopards)
 
 members:
 - Linda
